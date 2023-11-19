@@ -1,0 +1,1 @@
+alter table passenger_view_flight add column if not exists date_of_journey date;
